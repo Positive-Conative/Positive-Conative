@@ -7,7 +7,7 @@
 2. Hoseo Univ. (2016 ~
 
 ## Interest
-Target : Full-stack programmer
+Target : Full-stack programmer<br>
 Main : Server Side (Back-end) Programming
 
 ## Todo next
@@ -36,8 +36,8 @@ Main : Server Side (Back-end) Programming
       NoSQL - MongoDB <br>
     </th>
     <th>
-      HTTP, TCP/IP <br>
-      DNS, How to Socket work <br>
+      HTTP, TCP/IP, DNS <br>
+      How to Socket work <br>
       Rest API (HTTP) <br>
     </th>
     <th>
