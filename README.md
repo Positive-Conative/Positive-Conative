@@ -7,15 +7,24 @@
 2. Hoseo Univ. (2016 ~
 
 ## Interest
-Server Side (Back-end) Programming
+Target : Full-stack programmer
+Main : Server Side (Back-end) Programming
 
 ## Todo next
 <table>
   <tr>
-    <th><b>Back-end</b></th>
     <th><b>Front-end</b></th>
+    <th><b>Back-end</b></th>
+    <th><b>Database</b></th>
+    <th><b>Network</b></th>
+    <th><b>ETC.</b></th>
   </tr>
   <tr>
+    <th>
+      Angular <br>
+      React, Native <br>
+      <del>Express</del>
+    </th>
     <th>
       Python <br>
       Java <br>
@@ -23,9 +32,18 @@ Server Side (Back-end) Programming
       <del>Node.js</del>
     </th>
     <th>
-      Angular <br>
-      React, Native <br>
-      <del>Express</del>
+      RDBMS - MySQL <br>
+      NoSQL - MongoDB <br>
+    </th>
+    <th>
+      HTTP, TCP/IP <br>
+      DNS, How to Socket work <br>
+      Rest API (HTTP) <br>
+    </th>
+    <th>
+      Cashing(Redis, Memcashed) <br>
+      Authentication(Security) <br>
+      Distrubuted system(Cap theorem, Base principle) <br>
     </th>
   </tr>
 </table>
