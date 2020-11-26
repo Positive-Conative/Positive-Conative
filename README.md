@@ -22,7 +22,7 @@ Main : Server Side (Back-end) Programming
   <tr>
     <th>
       Angular <br>
-      React, Native <br>
+      <del>React</del>, Native <br>
       <del>Express</del>
     </th>
     <th>
@@ -32,12 +32,12 @@ Main : Server Side (Back-end) Programming
       <del>Node.js</del>
     </th>
     <th>
-      RDBMS - MySQL <br>
-      NoSQL - MongoDB <br>
+      <del>RDBMS - MySQL</del> <br>
+      <del>NoSQL - MongoDB</del> <br>
     </th>
     <th>
-      HTTP, TCP/IP, DNS <br>
-      How to Socket work <br>
+      <del>HTTP, TCP/IP, DNS</del> <br>
+      <del>How to Socket work</del> <br>
       Rest API (HTTP) <br>
     </th>
     <th>
