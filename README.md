@@ -27,7 +27,7 @@ Main : Server Side (Back-end) Programming
     </th>
     <th>
       Python <br>
-      Java <br>
+      <del>Java</del> <br>
       PHP <br>
       <del>Node.js</del>
     </th>
@@ -38,7 +38,8 @@ Main : Server Side (Back-end) Programming
     <th>
       <del>HTTP, TCP/IP, DNS</del> <br>
       <del>How to Socket work</del> <br>
-      Rest API (HTTP) <br>
+      <del>Rest API (HTTP)</del> <br>
+      <del>HTTPS Setting</del>
     </th>
     <th>
       Cashing(Redis, Memcashed) <br>
