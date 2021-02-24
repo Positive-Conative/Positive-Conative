@@ -34,7 +34,7 @@ Main : Server Side (Back-end) Programming
     <th>
       <del>RDBMS - MySQL</del> <br>
       <del>RDBMS - MariaDB</del> <br>
-      <del>RDBMS - MS-SQL</del> <br>
+      RDBMS - MS-SQL <br>
       <del>NoSQL - MongoDB</del> <br>
     </th>
     <th>
