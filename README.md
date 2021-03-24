@@ -4,7 +4,7 @@
 
 ## History
 1. Hankwang High School (2013 ~ 2015)
-2. Hoseo Univ. (`2016.03 ~ 2021.02`)
+2. Hoseo Univ. (`2016.03 ~ 2022.02`)
 
 ## Interest
 Target : Full-stack programmer<br>
@@ -29,7 +29,7 @@ Main : Server Side (Back-end) Programming
       Python <br>
       <del>Java</del> <br>
       PHP <br>
-      <del>Node.js</del>
+      <del>Node.js(JS, TS)</del>
     </th>
     <th>
       <del>RDBMS - MySQL</del> <br>
