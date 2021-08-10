@@ -28,7 +28,7 @@ Main : Server Side (Back-end) Programming
     <th>
       Python <br>
       <del>Java</del> <br>
-      PHP <br>
+      <del>PHP</del> <br>
       <del>Node.js(JS, TS)</del>
     </th>
     <th>
