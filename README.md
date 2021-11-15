@@ -5,6 +5,7 @@
 ## History
 1. Hankwang High School (2013 ~ 2015)
 2. Hoseo Univ. (`2016.03 ~ 2022.02`)
+3. Neople co. Infradev team (`2021.05 ~ Now `)
 
 ## Interest
 Target : Full-stack programmer<br>
