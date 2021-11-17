@@ -2,7 +2,7 @@
 <br>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
-<img alt="Node.js" src ="https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=Nodejs&logoColor=white"/>
+<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 
 
 # Young Jae Kim
