@@ -8,7 +8,7 @@
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
 
 
-# Young Jae Kim
+# Young Jae Kim (Conative)
 
 ## History
 1. Hankwang High School (`2013.03 ~ 2015.02`)
@@ -19,6 +19,7 @@
 Target : Full-stack programmer<br>
 Main : Server Side (Back-end) Programming
 
+<!--
 ## Todo next
 <table>
   <tr>
@@ -59,6 +60,7 @@ Main : Server Side (Back-end) Programming
     </th>
   </tr>
 </table>
+-->
 
 <!--
 **Positive-Conative/Positive-conative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
