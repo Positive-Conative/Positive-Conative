@@ -1,6 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520Positive-Conative%2Fhit-counter)](https://hits.seeyoufarm.com)
 <br>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
+<img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
+<img alt="Node.js" src ="https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=Nodejs&logoColor=white"/>
 
 
 # Young Jae Kim
