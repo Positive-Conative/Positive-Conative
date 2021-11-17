@@ -1,4 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520Positive-Conative%2Fhit-counter)](https://hits.seeyoufarm.com)
+<img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 
 # Young Jae Kim
 
