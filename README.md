@@ -1,17 +1,38 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520Positive-Conative%2Fhit-counter)](https://hits.seeyoufarm.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://conative.tistory.com/)](https://conative.tistory.com/)
+<span>
+  <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>  
+</span>
+<span>
+  <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
+</span>
+<span>
+  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+</span>
+<span>
+  <img alt="Electron" src ="https://img.shields.io/badge/Electron-47848F.svg?&style=for-the-badge&logo=Electron&logoColor=white"/>
+</span>
 
+<span>
+  <img alt="Nginx" src ="https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white"/>
+</span>
+
+<span>
+  <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
+</span>
 
 # Young Jae Kim (Conative)
 
-## History
-1. Hankwang High School (`2013.03 ~ 2015.02`)
-2. Hoseo Univ. (`2016.03 ~ 2022.02`)
-3. Neople co. Infradev team (`2021.05 ~ Now `)
+- History
+  1. Hankwang High School (`2013.03 ~ 2015.02`)
+  1. Hoseo Univ. (`2016.03 ~ 2022.02`)
+  1. Neople co. Infradev team (`2021.05 ~ Now `)
 
-## Interest
-Target : Full-stack programmer<br>
-Main : Server Side (Back-end) Programming
+- Interest
+  - Target : Full-stack programmer<br>
+  - Main : Server Side (Back-end) Programming
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520Positive-Conative%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://conative.tistory.com/)](https://conative.tistory.com/)
+
 
 <!--
 ## Todo next
@@ -55,26 +76,8 @@ Main : Server Side (Back-end) Programming
   </tr>
 </table>
 -->
-<span>
-  <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>  
-</span>
-<span>
-  <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
-</span>
-<span>
-  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-</span>
-<span>
-  <img alt="Electron" src ="https://img.shields.io/badge/Electron-47848F.svg?&style=for-the-badge&logo=Electron&logoColor=white"/>
-</span>
 
-<span>
-  <img alt="Nginx" src ="https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white"/>
-</span>
 
-<span>
-  <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
-</span>
 
 
 <!--
