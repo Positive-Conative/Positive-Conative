@@ -21,12 +21,12 @@
 
 # Young Jae Kim (Conative)
 
-- History
+### History
   1. Hankwang High School (`2013.03 ~ 2015.02`)
   1. Hoseo Univ. (`2016.03 ~ 2022.02`)
   1. Neople co. Infradev team (`2021.05 ~ Now `)
 
-- Interest
+### Interest
   - Target : Full-stack programmer<br>
   - Main : Server Side (Back-end) Programming
 
