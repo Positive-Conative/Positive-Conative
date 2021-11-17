@@ -3,7 +3,7 @@
 # Young Jae Kim
 
 ## History
-1. Hankwang High School (2013 ~ 2015)
+1. Hankwang High School (`2013.03 ~ 2015.02`)
 2. Hoseo Univ. (`2016.03 ~ 2022.02`)
 3. Neople co. Infradev team (`2021.05 ~ Now `)
 
