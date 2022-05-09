@@ -1,12 +1,24 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520Positive-Conative%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://conative.tistory.com/)](https://conative.tistory.com/)
+
+# Young Jae Kim (Conative)
+
 <span>
   <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>  
 </span>
+
 <span>
   <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
 </span>
+
+<span>
+  <img alt="React" src ="https://img.shields.io/badge/React-blue.svg?&style=for-the-badge&logo=React&logoColor=white%22"/>
+</span>
+
 <span>
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 </span>
+
 <span>
   <img alt="Electron" src ="https://img.shields.io/badge/Electron-47848F.svg?&style=for-the-badge&logo=Electron&logoColor=white"/>
 </span>
@@ -19,8 +31,7 @@
   <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
 </span>
 
-# Young Jae Kim (Conative)
-
+<!--  
 ### History
   1. Hankwang High School (`2013.03 ~ 2015.02`)
   1. Hoseo Univ. (`2016.03 ~ 2022.02`)
@@ -29,10 +40,11 @@
 ### Interest
   - Target : Full-stack programmer<br>
   - Main : Server Side (Back-end) Programming
+-->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2520Positive-Conative%2Fhit-counter)](https://hits.seeyoufarm.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://conative.tistory.com/)](https://conative.tistory.com/)
 
+
+[![Conative's github stats](https://github-readme-stats.vercel.app/api?username=positive-conative&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ## Todo next
